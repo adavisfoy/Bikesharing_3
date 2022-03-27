@@ -15,7 +15,7 @@ The purpose of the analysis is well defined. (5 pt)
 
 ### Visualization 2: Bike Checkout Duration by Gender
 
-**Description:** This visualization illustrates the number of trips by bike checkout duration for each gender by the hour. It can be filtered by the hour and gender. 
+**Description:** This visualization illustrates the number of trips by bike checkout duration (in hours) for each gender. It can be filtered by the duration (in hours) and gender. 
 
 ![2_Checkout_Gender.png](Images/2_Checkout_Gender.png)
 
@@ -29,37 +29,72 @@ The purpose of the analysis is well defined. (5 pt)
 
 ### Visualization 4: Number of Trips by Weekday and Gender
 
-Description: This visualization displays a heatmap that shows the number of bike trips by gender per hour for each day of the week. The heatmap can be filtered by gender. 
+**Description:** This visualization displays a heatmap that shows the number of bike trips by gender and checkout duration (in hours) for each day of the week. The heatmap can be filtered by gender. 
 
 ![4_Trips_Gender_Weekday.png](Images/4_Trips_Gender_Weekday.png)
 
+### Visualization 5: Number of Trips by User Type and Gender
+
+**Description:** This visualization displays a heatmap showing the number of bike trips for each type of user and gender for each day of the week. It can be filtered by user type and gender. 
 
 ![5_User_Gender_Weekday.png](Images/5_User_Gender_Weekday.png)
 
+### Visualization 6: Gender Breakdown of All Users
+
+**Description:** This visualization breaks down all users into gender-specific groups. 
 
 ![7_Gender_Breakdown.png](Images/7_Gender_Breakdown.png)
 
+### Visualization 7: NYC August Peak Hours
+
+**Description:** This visualization reflects Citibike peak hours in the month of August 
 
 ![6_August_Peak_Hours.png](Images/6_August_Peak_Hours.png)
 
 
-## Summary:
+## Summary: Stakeholder Analysis
 
-- Further investigation of **Visualization 1** reveals that a large majority of Citibike trips in New York City are less than 1 hour. 
+- **Visualization 1** reveals that a large majority of Citibike trips in New York City are less than 1 hour. 
   - Total # of Trips: 2,344,224
   - Number of Trips < 1 hour: 2,316,710 (98.8 % of all trips)
   - Number of 5-Minute Trips: 146,752 (6.3% of all trips)
 
 ![1_Checkout_Times_1_hour.png](Images/1_Checkout_Times_1_hour.png)
 
-- Further investigation of **Visualization 2** reveals that 5 minutes is the most common checkout duration for males, while 6 minutes is the most common checkout duration for females. 
+- **Visualization 2** reveals that 5 minutes is the most common checkout duration for males, while 6 minutes is the most common checkout duration for females. Therefore, Citibikes are checked out for short distance trips.  
 
-- **Visualization 3**
+![2a_Checkout_Male.png](Images/2a_Checkout_Male.png)
+
+![2c_Checkout_Female_6.png](Images/2c_Checkout_Female_6.png)
+
+- **Visualization 3** shows that Thursday at 6 pm is the peak time for bike checkout. This may coincide with users renting a Citibike to travel home at the end of a work day. 
 
 ![3a_Trips_Weekday_Most.png](Images/3a_Trips_Weekday_Most.png)
+
+- **Visualization 4** is a variation of Visualization 3 that shows that Thursday at 6 pm is the peak time for bike checkout for both males and females.
+
+![4a_Male.png](Images/4a_Male.png)
+
+![4b_Female.png](Images/4b_Female.png)
+
+- **Visualization 5** is a variation on visuals 3 & 4 that illustrates that subscribers of both genders account for the most trips during the Thursday at 6 pm peak bikesharing hour.
+
+![5a_Male.png](Images/5a_Male.png)
+
+![5b_Female.png](Images/5b_Female.png)
+
+- **Visualization 6** illustrates the gender breakdown of Citibike users. 1,530,272 of all users are male, accounting for approximately 65% of all users. 588,431 of all users are female, accounting for approximately 25% of all users. 225,521 users are categorized as "Unknown" gender, accounting for approximately 10% of all users. This indicates that providing gender within the Citibike app is most likely not required for bike checkout to accommmodate for those who prefer not to share this information.
+
+![7a_Male.png](Images/7a_Male.png)
+
+![7b_Female.png](Images/7b_Female.png)
+
+- **Visualization 7** 
 
 - Two additional visualizations are suggested for future analysis (5 pt)
 
 **Number of Trips by User Type, Gender & Age**
 
 ![8_UserType_Gender_Age.png](Images/8_UserType_Gender_Age.png)
+
+
