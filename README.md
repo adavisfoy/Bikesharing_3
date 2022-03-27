@@ -36,3 +36,7 @@ Using the visualizations you have in your Tableau Story, describe the results of
 
 - There is a high-level summary of the results and 
 - Two additional visualizations are suggested for future analysis (5 pt)
+
+**Number of Trips by User Type, Gender & Age**
+
+![8_UserType_Gender_Age.png](Images/8_UserType_Gender_Age.png)
