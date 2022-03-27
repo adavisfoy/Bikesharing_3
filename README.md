@@ -6,13 +6,16 @@ The purpose of the analysis is well defined. (5 pt)
 
 ## Results:
 
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-
-- There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-- There is a description of the results for each visualization (7 pt)
+### Visualization 1: Bike Checkout Duration
 
 ![1a_Checkout_Times_5.png](Images/1a_Checkout_Times_5.png)
 
+![1_Checkout_Times_1_hour.png](Images/1_Checkout_Times_1_hour.png)
+
+These visualizations illustrate that the large majority of Citibike trips in New York City are less than 1 hour. 
+- Total # of Trips: 2,344,224
+- Number of Trips < 1 hour: 2,316,710 (98.8 % of all trips)
+- Number of 5-Minute Trips: 146,752 (6.3% of all trips)
 
 ![2_Checkout_Gender.png](Images/2_Checkout_Gender.png)
 
