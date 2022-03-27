@@ -61,7 +61,7 @@ The purpose of this analysis is to provide data and visualizations to our potent
 
 ![1_Checkout_Times_1_hour.png](Images/1_Checkout_Times_1_hour.png)
 
-- **Visualization 2** reveals that 5 minutes is the most common checkout duration for males, while 6 minutes is the most common checkout duration for females. Therefore, Citibikes are checked out for short distance trips.  
+- **Visualization 2** reveals that 5 minutes is the most common checkout duration for males, while 6 minutes is the most common checkout duration for females. Therefore, Citibikes are often checked out for short distance trips to and from a specific location.  
 
 ![2a_Checkout_Male.png](Images/2a_Checkout_Male.png)
 
