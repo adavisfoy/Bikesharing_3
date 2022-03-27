@@ -4,6 +4,10 @@
 
 The purpose of this analysis is to provide data and visualizations to our potential investors illustrating strong evidence that a bike-sharing program in Des Moines would be a profitable business endeavor. 
 
+Additional Instructions for Potential Investors: The visualizations in screenshots below can be accessed at the link below and will give you the ability to filter and investigate the data in greater detail. 
+
+[link to dashboard](https://public.tableau.com/views/Mod14BikeshareChallenge-Tableau/NYCCitibikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "link to dashboard")
+
 ## Results:
 
 ### Visualization 1: Bike Checkout Duration
