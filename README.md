@@ -1,6 +1,6 @@
 # Bike-Sharing Program in Des Moines: Stakeholder Analysis
 
-## Analysis (24 points)
+## Purpose of Analysis:
 
 The purpose of this analysis is to provide data and visualizations to our potential investors illustrating strong evidence that a bike-sharing program in Des Moines would be a profitable business endeavor. 
 
