@@ -8,7 +8,7 @@ The purpose of the analysis is well defined. (5 pt)
 
 Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
-![Checkout_Times_for_Users.png](Images/Checkout_Times_for_Users.png)
+![1_Checkout_Times.png](Bikesharing_3/Images/1_Checkout_Times.png)
 
 - There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 - There is a description of the results for each visualization (7 pt)
