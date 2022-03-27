@@ -2,7 +2,7 @@
 
 ## Analysis (24 points)
 
-The purpose of the analysis is well defined. (5 pt)
+The purpose of this analysis is to provide data and visualizations to our potential investors illustrating strong evidence that a bike-sharing program in Des Moines would be a profitable business endeavor. 
 
 ## Results:
 
@@ -89,12 +89,19 @@ The purpose of the analysis is well defined. (5 pt)
 
 ![7b_Female.png](Images/7b_Female.png)
 
-- **Visualization 7** 
+- **Visualization 7** illustrates the peak hour of bike checkout in the month of August in NYC. Checkout start time occurs most often at 5 pm. 
 
-- Two additional visualizations are suggested for future analysis (5 pt)
+![6_August_Peak_Hours.png](Images/6_August_Peak_Hours.png)
+
+
+- **Two Additional Visualizations for Further Analysis:**
+
+- One additional visualization that may provide helpful information would be a line graph illustrating the number of trips that can be filtered by user type, gender, and age. We've done a full analysis of usage by gender, but not as much by age. It would be helpful for stakeholders to gain a better understanding of the both the ages and genders of subscribers versus non-subscribers. This visualization has been provided below and indicates that subscribers are responsible for more trips, which is to be expected.  
 
 **Number of Trips by User Type, Gender & Age**
 
 ![8_UserType_Gender_Age.png](Images/8_UserType_Gender_Age.png)
+
+- An additional visualization that would be useful would be a line graph of birth date and user type to help gain an understanding the age distribution of subscribers so future marketing efforts could target these age groups as well as identify other age groups to target. 
 
 
